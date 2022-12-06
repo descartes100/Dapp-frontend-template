@@ -25,3 +25,7 @@ npm run dev
 2. Customize the contract calls in the pages/index.js. 
 
 3. And then you can interact with your contract easily using the frontend you built!
+
+# Recommended tutorial
+
+This project is partly inspired by [a tutorial](https://billyjitsu.hashnode.dev/the-rainbowkit-wagmi-guide-i-wish-i-had#heading-the-back-end). I strongly recommend you to check it for further exploration.
