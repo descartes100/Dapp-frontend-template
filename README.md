@@ -1,6 +1,4 @@
-This is a project inspired by [a tutorial](https://billyjitsu.hashnode.dev/the-rainbowkit-wagmi-guide-i-wish-i-had#heading-the-back-end)
-
-# The Dapp frontend template built with Next.js + RainbowKit + WAGMI
+# A Dapp frontend template built with Next.js + RainbowKit + WAGMI to help developers interact with their contracts in an easy way.
 
 ## Tools
 
